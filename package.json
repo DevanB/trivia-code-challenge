@@ -30,7 +30,7 @@
     "react": "16.13.1",
     "react-confetti": "6.0.0",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.2",
+    "react-scripts": "3.4.3",
     "styled-components": "4.4.1",
     "tailwind.macro": "1.0.0-alpha.10",
     "typescript": "3.9.7",
