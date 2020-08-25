@@ -46,7 +46,7 @@
     "@types/react-dom": "16.9.8",
     "@types/styled-components": "5.1.2",
     "@xstate/graph": "1.1.0",
-    "commitizen": "4.1.5",
+    "commitizen": "4.2.0",
     "cypress": "3.8.3",
     "cz-conventional-changelog": "3.2.0",
     "husky": "4.2.5",
