@@ -44,7 +44,7 @@
     "@types/node": "15.12.2",
     "@types/react": "17.0.6",
     "@types/react-dom": "17.0.5",
-    "@types/styled-components": "5.1.9",
+    "@types/styled-components": "5.1.10",
     "@xstate/graph": "1.3.0",
     "commitizen": "4.2.4",
     "cypress": "6.9.1",
