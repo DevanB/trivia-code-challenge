@@ -24,7 +24,7 @@
     "validate": "lint-staged"
   },
   "dependencies": {
-    "@sentry/browser": "6.19.3",
+    "@sentry/browser": "6.19.4",
     "@xstate/react": "2.0.1",
     "lean-he": "2.1.2",
     "react": "17.0.2",
